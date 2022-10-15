@@ -1,0 +1,7 @@
+npm i 
+-D @types/faker
+
+NestJs Authentication With JWT Tokens :https://www.youtube.com/watch?v=e5qk1Xruwso
+Authorization Bearer 
+
+typeorm migration:create -n UserMigration

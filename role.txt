@@ -1,0 +1,3 @@
+nest g d auth/decorators/roles --flat --no-spec
+
+nest g gu auth/guards/roles/ --flat --no-spec
